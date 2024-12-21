@@ -60,8 +60,3 @@ Se você quiser contribuir para este projeto, siga as etapas abaixo:
    ```
 
 5. Abra um **pull request** no GitHub para revisar e integrar suas alterações.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
